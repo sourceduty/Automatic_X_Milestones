@@ -34,7 +34,7 @@ The "Automatic Post Milestones" feature offers a dynamic way to celebrate user a
 #
 ### MrBeast
 
-As of 2024, MrBeast holds the record for the most tweets on X.com, formerly known as Twitter. He has tweeted over 55,000 times. His content ranges from announcements of his philanthropic efforts and YouTube video releases to engaging with his fanbase through viral challenges and giveaways​ 
+As of 2024, MrBeast holds the record for the most tweets on X.com, formerly known as Twitter. He has tweeted over 55,000 times. His content ranges from announcements of his philanthropic efforts and YouTube video releases to engaging with his fanbase through viral challenges and giveaways​.
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
