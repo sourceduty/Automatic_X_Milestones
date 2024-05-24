@@ -31,5 +31,10 @@ Automatic post milestones could foster a sense of community and healthy competit
 
 The "Automatic Post Milestones" feature offers a dynamic way to celebrate user activity on X. By acknowledging significant milestones, X can motivate users to stay engaged and active. The customizable nature of this feature ensures it meets various user preferences, balancing public recognition with privacy needs. This innovative feature has the potential to enrich the overall user experience and strengthen the X community.
 
+#
+### MrBeast
+
+As of 2024, MrBeast holds the record for the most tweets on X.com, formerly known as Twitter. He has tweeted over 55,000 times. His content ranges from announcements of his philanthropic efforts and YouTube video releases to engaging with his fanbase through viral challenges and giveaways​ 
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
