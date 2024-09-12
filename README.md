@@ -11,6 +11,20 @@ Automatic milestone posts would serve as badges of honor, publicly acknowledging
 To cater to a wide range of user preferences, the feature would be fully customizable. Users could toggle the automatic milestone posts on or off, giving them the flexibility to choose between celebrating their achievements publicly or maintaining privacy. By offering both options, X ensures that the feature appeals to different types of users, enhancing their overall experience on the platform.
 
 #
+
+| Rank | Account            | Tweets       |
+|------|--------------------|--------------|
+| 1    | @PMOIndia           | 1.1M+        |
+| 2    | @SrBachchan         | 550K+        |
+| 3    | @espn               | 141.9K       |
+| 4    | @realmadrid         | 94.2K        |
+| 5    | @FCBarcelona        | 136.9K       |
+
+<br>
+
+The table highlights the top 5 Twitter accounts with the most tweets as of 2024. These accounts represent a diverse range of entities, including government bodies, sports teams, and media outlets. At the top, @PMOIndia (the official account of the Indian Prime Minister's office) has posted over 1.1 million tweets, reflecting the high volume of updates and announcements shared with the public. Following closely is Indian actor Amitabh Bachchan's account (@SrBachchan), which has over 550,000 tweets. Sports teams like @realmadrid and @FCBarcelona also make the list, demonstrating that major organizations, especially in sports and media, actively engage with their followers through frequent updates and content. This high tweet activity keeps their audiences engaged, highlighting the power of regular communication on social media.
+
+#
 ### Potential Improvement Value
 
 The Improvement Value (IV) of the "Automatic Post Milestones" feature on X can be measured by examining four key dimensions: usability, efficiency, satisfaction, and impact.
